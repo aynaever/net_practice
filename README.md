@@ -23,31 +23,43 @@ This project have small-scale networks that are misconfigured. Our job is to con
 
 <a name="level_1"></a>
 ## Level 1
-![Level 1 Image](./screenshots/level_1.png "level 1")
+<div style="display: flex;">
+<img src="./screenshots/level_1.png" style="margin-right: 5px; width: 50%;">
+<img src="./screenshots/level_1_broken.png" style="margin-right: 5px; width: 50%;">
+</div>
 
 <a name="level_2"></a>
 ## Level 2
+![Level 2 Image](./screenshots/level_2.png "level 2")
 
 <a name="level_3"></a>
 ## Level 3
+![Level 3 Image](./screenshots/level_3.png "level 3")
 
 <a name="level_4"></a>
 ## Level 4
+![Level 4 Image](./screenshots/level_4.png "level 4")
 
 <a name="level_5"></a>
 ## Level 5
+![Level 5 Image](./screenshots/level_5.png "level 5")
 
 <a name="level_6"></a>
 ## Level 6
+![Level 6 Image](./screenshots/level_6.png "level 6")
 
 <a name="level_7"></a>
 ## Level 7
+![Level 7 Image](./screenshots/level_7.png "level 7")
 
 <a name="level_8"></a>
 ## Level 8
+![Level 8 Image](./screenshots/level_8.png "level 8")
 
 <a name="level_9"></a>
 ## Level 9
+![Level 9 Image](./screenshots/level_9.png "level 9")
 
 <a name="level_10"></a>
 ## Level 10
+![Level 10 Image](./screenshots/level_10.png "level 10")
