@@ -27,7 +27,7 @@ This project have small-scale networks that are misconfigured. Our job is to con
 
 <a name="level_2"></a>
 ## Level 2
-![Level 2 Image](./screenshots/level_2.png "level 2")
+<img src="./screenshots/level_2.png"> 
 
 <a name="level_3"></a>
 ## Level 3
