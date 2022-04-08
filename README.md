@@ -23,7 +23,7 @@ This project have small-scale networks that are misconfigured. Our job is to con
 
 <a name="level_1"></a>
 ## Level 1
-<img src="./screenshots/level_1_broken.png"> 
+<img src="./screenshots/level_1.png"> 
 
 <a name="level_2"></a>
 ## Level 2
