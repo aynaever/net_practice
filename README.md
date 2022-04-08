@@ -23,6 +23,7 @@ This project have small-scale networks that are misconfigured. Our job is to con
 
 <a name="level_1"></a>
 ## Level 1
+![Level 1 Image](./screenshots/level_1.png "level 1")
 
 <a name="level_2"></a>
 ## Level 2
