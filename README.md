@@ -23,10 +23,7 @@ This project have small-scale networks that are misconfigured. Our job is to con
 
 <a name="level_1"></a>
 ## Level 1
-<div style="display: flex;">
-<img src="./screenshots/level_1.png" style="margin-right: 5px; width: 50%;">
-<img src="./screenshots/level_1_broken.png" style="margin-right: 5px; width: 50%;">
-</div>
+<img src="./screenshots/level_1_broken.png"> 
 
 <a name="level_2"></a>
 ## Level 2
