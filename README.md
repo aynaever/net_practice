@@ -2,9 +2,6 @@
 This project have small-scale networks that are misconfigured. Our job is to configure them, so Computers can communicate between each other.
 
 ## Table of contents
-* [What is an IP Address ?](#ip_address)
-* [What is a Subnet Mask ?](#subnet_mask)
-* [What is a Routing Table ?](#routing_table)
 * [Level 1](#level_1)
 * [Level 2](#level_2)
 * [Level 3](#level_3)
