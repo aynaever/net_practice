@@ -13,12 +13,6 @@ This project have small-scale networks that are misconfigured. Our job is to con
 * [Level 9](#level_9)
 * [Level 10](#level_10)
 
-<a name="ip_address"></a>
-## What is an IP Address ?
-
-<a name="subnet_mask"></a>
-## What is a Subnet Mask ?
-
 <a name="level_1"></a>
 ## Level 1
 <img src="./screenshots/level_1.png"> 
